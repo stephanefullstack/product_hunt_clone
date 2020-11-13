@@ -17,5 +17,5 @@ script:
   - bundle exec rake db:test:prepare
   # - SECRET_KEY_BASE=a RAILS_ENV=production bundle exec rake assets:precompile
   - bundle exec rake test
-  - bundle exec rake test:model
+  - bundle exec rake test:models
   - bundle exec rake test:system
