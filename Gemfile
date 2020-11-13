@@ -43,6 +43,7 @@ group :development, :test do
   gem 'webdrivers'
   gem 'launchy'
   gem 'selenium-webdriver'
+  gem 'rspec-rails', '~> 4.0.0'
 
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
