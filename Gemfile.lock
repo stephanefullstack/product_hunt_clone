@@ -231,8 +231,6 @@ GEM
     strscan (3.0.3)
     thor (1.2.1)
     timeout (0.3.0)
-    turbo-rails (7.1.1)
-      rails (>= 6.0.0)
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
     warden (1.2.9)
@@ -278,7 +276,6 @@ DEPENDENCIES
   simple_form!
   sprockets-rails
   stimulus-rails
-  turbo-rails
   tzinfo-data
   web-console
   webdrivers
